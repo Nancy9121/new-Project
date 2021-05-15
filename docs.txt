@@ -1,3 +1,0 @@
-document t file content
-File1 content
-file2 content
